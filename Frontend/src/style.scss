@@ -1,0 +1,13 @@
+@use "./features/styles/button.scss";
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,body,#root{
+   width: 100%;
+   background-color: rgb(33, 32, 32);
+   color:whitesmoke;
+}
